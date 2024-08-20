@@ -312,7 +312,7 @@
 	.generic-blockquote {
 		padding: 30px 15px 30px 30px;
 	}
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
 
 		.timeline::after {
 			left: 31px;
@@ -323,19 +323,25 @@
 			width: 100%;
 			padding-left: 70px;
 			padding-right: 25px;
-			padding-top : 40px;
+			padding-top : 350px;
 		}
 
+
+
+		
 
 		.left-timeline::after,
 		.right-timeline::after {
 			left: 15px;
+			
 		}
 
 
 		.right-timeline{
 			left: 0%;
 		}
+
+		
 	}
 	/* End Elements Area css
 	============================================================================================ */
