@@ -323,12 +323,10 @@
 			width: 100%;
 			padding-left: 70px;
 			padding-right: 25px;
-			padding-top : 90px;
+			padding-top : 100px;
 		}
 
 
-
-		
 
 		.left-timeline::after,
 		.right-timeline::after {
