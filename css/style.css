@@ -2867,7 +2867,8 @@ h6 {
 
 
 .date-timeline {
-color:white
+color:white;
+position: relative;
 }
 
 
